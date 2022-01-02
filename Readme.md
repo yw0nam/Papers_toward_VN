@@ -7,7 +7,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 - [Self Supervised Learning](#Self-Supervised-Learning)
 - [Human Synthesis](#Human-Synthesis)
 - [Generative Adversarial Network](#Generative-Adversarial-Network)
-- [Dataset](#Dataset)
+- [Dataset]
 
 [NLP](#NLP)
 - [Big LM](#Big-LM)
@@ -16,6 +16,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 - [Voice Synthesis](#Voice-Synthesis)
 - [Active Speaker Detection](#Active-Speaker-Detection)
 - [Speaker Classification](#Speaker-Classification)
+- [Dataset]
 
 # Computer Vision
 ## Self Supervised Learning
@@ -30,7 +31,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 
 [Unsupervised Part Discovery via Feature Alignment](https://arxiv.org/abs/2012.00313) 
 
-## Human Synthsis
+## Human Synthesis
 
 [A Robust Pose Transformational GAN for Pose Guided Person Image Synthesis](https://arxiv.org/abs/2001.01259) 
 
@@ -80,6 +81,20 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 # Speech
 ## Voice Synthesis
 
+[WAVENET: A GENERATIVE MODEL FOR RAW AUDIO](https://arxiv.org/pdf/1609.03499.pdf) 
+
 ## Active Speaker Detection
 
+[Out of time: automated lip sync in the wild](https://www.robots.ox.ac.uk/~vgg/publications/2016/Chung16a/chung16a.pdf) 
+
+[Perfect match: Improved cross-modal embeddings for audio-visual synchronisation](https://arxiv.org/abs/1809.08001)
+
+[Look who's not talking](https://arxiv.org/abs/2011.14885) 
+
 ## Speaker Classification
+
+[Disentangled Speech Embeddings using Cross-modal Self-supervision](https://arxiv.org/abs/2002.08742) 
+
+## Dataset
+
+[Voxceleb: Large-scale speaker verification in the wild](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/)(2019)
