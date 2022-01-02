@@ -18,7 +18,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 - [Speaker Classification](#Speaker-Classification)
 
 # Computer Vision
-## Self-Supervised-Learning
+## Self Supervised Learning
 
 [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/abs/2005.05207)
 
@@ -30,7 +30,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 
 [Unsupervised Part Discovery via Feature Alignment](https://arxiv.org/abs/2012.00313) 
 
-## Human-Synthsis
+## Human Synthsis
 
 [A Robust Pose Transformational GAN for Pose Guided Person Image Synthesis](https://arxiv.org/abs/2001.01259) 
 
@@ -40,7 +40,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 
 [Soft-Gated Warping-GAN for Pose-Guided Person Image Synthesis [[pdf]]](https://arxiv.org/abs/1810.11610) 
 
-## Generative-Adversarial-Network
+## Generative Adversarial Network
 
 [Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/abs/1811.11212)
 
@@ -73,7 +73,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 [DanbooRegion: An Illustration Region Dataset](https://lllyasviel.github.io/DanbooRegion)
 
 # NLP
-## Big-LM
+## Big LM
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 
