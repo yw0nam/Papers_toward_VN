@@ -53,7 +53,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 
 [StarGAN v2: Diverse Image Synthesis for Multiple Domains](https://arxiv.org/abs/1912.01865)
 
-[Disentangling Style and Content in Anime Illustrations[[pdf]]](https://arxiv.org/abs/1905.10742) 
+[Disentangling Style and Content in Anime Illustrations](https://arxiv.org/abs/1905.10742) 
 
 [Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN](https://arxiv.org/abs/1706.03319) 
 
