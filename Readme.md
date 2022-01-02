@@ -7,7 +7,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 - [Self Supervised Learning](#Self-Supervised-Learning)
 - [Human Synthesis](#Human-Synthesis)
 - [Generative Adversarial Network](#Generative-Adversarial-Network)
-- [Dataset]
+- Dataset
 
 [NLP](#NLP)
 - [Big LM](#Big-LM)
@@ -16,7 +16,7 @@ The paper lists for synthesis visual novel that include voice, narrative text, c
 - [Voice Synthesis](#Voice-Synthesis)
 - [Active Speaker Detection](#Active-Speaker-Detection)
 - [Speaker Classification](#Speaker-Classification)
-- [Dataset]
+- Dataset
 
 # Computer Vision
 ## Self Supervised Learning
