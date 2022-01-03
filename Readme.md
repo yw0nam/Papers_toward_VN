@@ -1,6 +1,6 @@
 # Paper List for Visual Novel Generation.
 
-The paper lists for synthesis visual novel that include voice, narrative text, characters.
+The paper lists for synthesis visual novel that include voice, narrative text, attractive characters.
 
 # Contents
 [Computer Vision](#Computer-Vision)
