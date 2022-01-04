@@ -86,6 +86,10 @@ Title | Conference |
 [PlotMachines: Outline-Conditioned Generation with Dynamic Plot State Tracking](https://arxiv.org/abs/2004.14967) | EMNLP 2020 |
 
 ## Dataset
+
+Title | Conference |
+--- | --- |
+
 ["Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438) | EMNLP 2021 | 
 
 # Speech
