@@ -78,7 +78,7 @@ Title | Conference |
 --- | --- |
 [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536) | ACL 2020 | 
 [A Unified Pre-training Framework for Conversational AI](https://arxiv.org/abs/2105.02482) | AAAI 2021 | 
-[Stylistic Retrieval-based Dialogue System with Unparallel Training Data] | |
+[Stylistic Retrieval-based Dialogue System with Unparallel Training Data](https://arxiv.org/abs/2109.05477) | |
 ## Narrative-Generation
 
 Title | Conference |
