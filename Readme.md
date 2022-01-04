@@ -89,7 +89,6 @@ Title | Conference |
 
 Title | Conference |
 --- | --- |
-
 ["Let Your Characters Tell Their Story": A Dataset for Character-Centric Narrative Understanding](https://arxiv.org/abs/2109.05438) | EMNLP 2021 | 
 
 # Speech
